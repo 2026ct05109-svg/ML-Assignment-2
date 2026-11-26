@@ -35,8 +35,8 @@ Accurate income classification supports socioeconomic policy analysis, financial
 ## 3. GitHub Repository Link
 * **Repository URL:** https://github.com/2026ct05109-svg/ML-Assignment-2
 ## VM LAB Screenshoots:
-<img width="1917" height="1077" alt="VM1" src="https://github.com/user-attachments/assets/a297dcbe-f66a-483a-a87c-e363ca0fe568" />
-<img width="1721" height="1022" alt="Vm2" src="https://github.com/user-attachments/assets/18896c12-9922-472f-a97e-5d5d2cd6ba3a" />
+<img width="1917" height="1077" alt="Soorya VM" src="https://github.com/user-attachments/assets/662d829e-417f-46cd-af29-6a1da07a0d6d" />
+
 
 
 ## Models Used & Evaluation Metrics Comparison
