@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 numpy
 pandas
 scikit-learn
 matplotlib
 seaborn
+=======
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+>>>>>>> 944d29ad171f39cdd6fbc4f72bc313912a51801d
 joblib
